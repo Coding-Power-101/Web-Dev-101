@@ -1,0 +1,39 @@
+/** Week 4 */
+#tag1 {
+	font-size: 50px;
+	font-weight: bold;
+	color: red;
+	background-color: aqua;
+	text-align: center;	
+}
+
+#tag2 {
+	font-size: 30px;
+	color: blue;
+}
+
+#tag3 {
+	font-size: 20px;
+	color: green;
+}
+
+.text {
+	font-family: "Arial";
+}
+
+/** Week 5 */
+#tag1:hover {
+	color: blue;
+	animation: example 4s infinite;
+}
+
+@keyframes example {
+	from {background-color: red;}
+	to {background-color: yellow;}
+}
+
+@media (max-width: 600px) {
+	#tag1 {
+		font-size: 30px;
+	}
+}
