@@ -1,5 +1,5 @@
 Welcome all to the Website Development 101 course!
-
+-----
 This is a beginner level course that is specifically designed to introduce the basic mechanics of website development and design to children.
 -----
 This is an 8 week course covering HTML, CSS, and JavaScript basics
