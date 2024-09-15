@@ -9,8 +9,8 @@ How to setup live server:
 2. Locate the icon that has 3 connected squares and 1 square breaking off and click that
 3. A new bar should open up, if on the top of that bar it doesn't say extensions, then you are in the wrong section
 4. When you are in extensions, click on the "Search Extensions" bar at the top
-5. Search up "Live Server"
-6. Click on "Live Server" by Ritwick Dey
+5. Search up "Live Server (Five Server)"
+6. Click on "Live Server" by Yannick
 7. Click on install
 
 You are done for week 1! 
